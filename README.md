@@ -1,9 +1,8 @@
-# 🇺🇿 Ўзбек Сўзлари / Özbek Sözcükleri
+# 🇺🇿 Ўзбек Сўзлари
 
-> Интернетдаги 4 манбадан тўпланган ўзбек сўзлари, Кирил ёзувида, ҳарф бўйича ажратилган.
-> 4 internet kaynağından toplanan Özbek kelimeleri, Kiril yazısında, harfe göre ayrılmış.
+Интернетдаги 4 та манбадан 74,109 та ўзбек сўзлари тўпланди. Барча сўзлар Кирил ёзувида, ҳарф бўйича алоҳида файлларга ажратилган. Такрорланувчи сўзлар йўқ.
 
-## 📥 Манбалар / Kaynaklar
+## 📥 Манбалар
 
 | # | Манба | Тавсиф |
 |---|-------|--------|
@@ -12,46 +11,19 @@
 | 3 | [kodchi/uzbek-words](https://github.com/kodchi/uzbek-words) | Ўзбек сўзлари рўйхати (Кирил) |
 | 4 | [LDKR-Group/UzWordnet](https://github.com/LDKR-Group/UzWordnet) | Лексик-семантик маълумотлар базаси |
 
-## 📁 Файл Тузилиши / Dosya Yapısı
+## 📁 Файллар
+
+Ҳар бир ҳарф учун алоҳида `.txt` файл мавжуд:
 
 ```
-uzbek-words/
-├── а.txt
-├── б.txt
-├── в.txt
-├── г.txt
-├── д.txt
-├── е.txt
-├── ё.txt
-├── ж.txt
-├── з.txt
-├── и.txt
-├── й.txt
-├── к.txt
-├── л.txt
-├── м.txt
-├── н.txt
-├── о.txt
-├── п.txt
-├── р.txt
-├── с.txt
-├── т.txt
-├── у.txt
-├── ф.txt
-├── х.txt
-├── ц.txt
-├── ч.txt
-├── ш.txt
-├── э.txt
-├── ю.txt
-├── я.txt
-├── ў.txt
-├── ғ.txt
-├── қ.txt
-└── ҳ.txt
+а.txt, б.txt, в.txt, г.txt, д.txt, е.txt, ё.txt,
+ж.txt, з.txt, и.txt, й.txt, к.txt, л.txt, м.txt,
+н.txt, о.txt, п.txt, р.txt, с.txt, т.txt, у.txt,
+ф.txt, х.txt, ц.txt, ч.txt, ш.txt, э.txt, ю.txt,
+я.txt, ў.txt, ғ.txt, қ.txt, ҳ.txt
 ```
 
-## 🔤 Ёзув / Yazı
+## 🔤 Маълумот
 
 - **Ёзув:** Кирил (Ўзбек Кирил алифбоси)
 - **Тартиб:** Алифбо бўйича (А → Я)
